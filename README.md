@@ -1,6 +1,10 @@
 ![Wizm logo](https://github.com/SebastianRautenbach/WIZM-Game-Engine/blob/main/RenderEngine/res/Picture1.png 'Wizm logo')
 ![ScreenShot1](https://github.com/SebastianRautenbach/3D-Game-Engine/blob/main/RenderEngine/res/screenshot2.png)
 
+**This project is how not to write a game engine**
+*1. Tightly Coupled*
+*2. Overly bloated code*
+
 **Getting Started**
 *Step 1: Clone the Repository*
 Clone the repository to your local machine using your preferred Git client or the command line.
